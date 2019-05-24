@@ -35,6 +35,7 @@ body {
     background: url(../img/lights.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     color: #fff;
 }
@@ -54,6 +55,7 @@ body {
     background: url(../img/lights.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     color: #fff;
 }
