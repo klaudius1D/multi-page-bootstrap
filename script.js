@@ -1,7 +1,7 @@
-
+//Get the current year
+$('#year').text(new Date().getFullYear());
 
 //slider configuration
-
 $('.carousel').carousel({
     interval: 6000,
     pause: 'hover'
