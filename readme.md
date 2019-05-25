@@ -1,7 +1,9 @@
 
 # BOOTSTRAP 4 Project 3
 
-Learned how to embed YouTube videos on HTML along with jQuery.
+Learned how to embed YouTube videos on HTML along with jQuery. 
+
+Applied a carousel (JS) called Slick by @kenwheeler
 
  ## Tools & Languages:
 * HTML5

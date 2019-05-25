@@ -22,7 +22,7 @@ $(function () {
     });
 });
 
-//lightbox plugin by ashleydw
+//lightbox plugin by ashleydw https://ashleydw.github.io/lightbox/
 $(document).on('click', '[data-toggle="lightbox"]', function (event) {
     event.preventDefault();
     $(this).ekkoLightbox();
