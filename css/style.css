@@ -89,3 +89,8 @@ body {
 #faq .card-header {
     background: #dc3545;
 }
+
+#main-footer {
+    background: #000;
+    color: #fff;
+}
