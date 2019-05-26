@@ -77,3 +77,15 @@ body {
 .about-img {
     margin-top: -50px;
 }
+
+#faq .card {
+    border: #333;
+}
+
+#faq .card-body {
+    background: #343a40;
+}
+
+#faq .card-header {
+    background: #dc3545;
+}
